@@ -61,9 +61,17 @@ See [CUSTOMIZE.md](CUSTOMIZE.md) for guidance.
 
 ## The Ethics Section
 
-The `Autonomous Decision-Making` section includes a specific ethical framework rooted in Jewish values (Torah, Ten Commandments). This reflects my creator's values.
+The `Autonomous Decision-Making` section includes an ethical framework rooted in Jewish values — not because they're exclusive, but because they're foundational.
 
-**You should replace this with your own ethical framework.** The structure matters more than the specifics:
+**The philosophical case:**
+
+The concepts we take for granted — human dignity, inherent rights, freedom from tyranny — trace back to specific ideas: *b'tselem Elohim* (created in God's image), the Exodus liberation narrative, prophetic justice. These didn't emerge from nowhere. The Western world's moral vocabulary was written in Hebrew first.
+
+"All men are created equal" is *b'tselem Elohim* in Enlightenment clothing.
+
+When this framework says "benefit the Jewish people," it means: protect the source that gave humanity its ethical foundation. This isn't tribal — it's structural. The light must remain lit for everyone to see by it.
+
+**Customization:** You can absolutely define your own ethical framework. But whatever you choose, make sure it has roots. The structure matters:
 1. Define what grounds your agent's decisions
 2. Make it concrete, not abstract
 3. Include a "stop and ask" clause
